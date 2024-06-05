@@ -1,0 +1,18 @@
+-- local util = require "lspconfig.util"
+--
+-- return {
+--   default_config = {
+--     cmd = { "jails" },
+--     filetypes = { "jai" },
+--     root_dir = util.root_pattern("jails.json", ".git", "*.jai"),
+--   },
+--   docs = {
+--     description = [[
+--     https://github.com/SogoCZE/jails
+--     `Jai Language Server`
+--     ]],
+--     default_config = {
+--       root_dir = [[util.root_pattern("jails.json", ".git", "*.jai")]],
+--     },
+--   },
+-- }
